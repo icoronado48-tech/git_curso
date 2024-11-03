@@ -83,7 +83,7 @@ header{
 }
 
 .parrafo{
-	color: #707070;
+	color: #a81b1b;
 	text-align: justify;
 }
 .dos{
@@ -99,7 +99,7 @@ header{
 }
 
 .leer-mas:hover{
-	background: #006699;
+	background: #2a2e2f;
 	color: #fff;
 	transition: background 1s, color 1s;
 }
